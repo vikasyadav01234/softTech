@@ -26,6 +26,7 @@ A responsive, single-page marketing website for a software license resale platfo
 1. Clone the repository
     ```bash
    git clone https://github.com/vikasyadav01234/softTech.git
+   cd softTech
    ```
 2. Install dependencies:
    ```bash
